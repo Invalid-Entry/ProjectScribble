@@ -23,5 +23,5 @@ setup(name='ProjectScribbleLib',
       ],
 
       packages=find_packages(),
-      install_requires=['pillow',]
+      install_requires=['pillow', 'rich', 'simplification']
      )
